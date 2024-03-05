@@ -1,0 +1,40 @@
+.split{
+    background-color: aliceblue;
+    height: 100%;
+    width: 55%;
+    position: fixed;
+}
+.bg {
+    
+    text-align: left;
+    margin-left: 10%;
+    margin-top:30%;
+    height: 100%;
+    width: 45%;
+    
+    
+}
+.img{
+    position: fixed;
+    text-align: center;
+    height: 100%;
+    width: 40%;
+    background-color: yellow;
+
+}
+.left{
+    left: 0;
+    background-color: aliceblue;
+    height: 100%;
+    width: 60%;
+    
+}
+.right{
+    right: 0;
+    height: 100%;
+
+}
+.image{
+    text-align: center;
+    margin-top: 90%;
+}
